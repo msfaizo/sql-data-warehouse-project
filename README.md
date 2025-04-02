@@ -59,7 +59,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Data Quality**: Cleanse and resolve data quality issues before analysis.
 - **Integration**: Combine both sources into a user-friendly data model for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
-- **Documentation**: Provide clear data model documentation to support both business stakeholders and analytics teams.
+- **Documentation**: Provide clear data model documentation to support business stakeholders and analytics teams.
 
 ---
 
@@ -106,11 +106,7 @@ data-warehouse-project/
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are allowed to use, modify, and share this project with proper attribution.
-
-## 🌟 About Me
-
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+This project is licensed under the MIT License. You are permitted to use, modify, and share this project as long as you provide proper attribution.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
